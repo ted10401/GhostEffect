@@ -1,2 +1,7 @@
 Library
 Logs
+.vs
+obj
+Temp
+*.csproj
+*.sln
